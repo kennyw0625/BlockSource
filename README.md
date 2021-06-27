@@ -17,3 +17,11 @@ A better more optimized and more friendly design, maybe even being the next well
 Both videos are on the channel below.
 
 https://www.youtube.com/channel/UC9-DJcETNBO6gVyZxA3_z9w/videos
+## Feaures
+1. Coding Area
+2. Computer generated blocks represented by the code written (color coded)
+3. Console for Output
+4. Light and Dark theme
+5. Toolbox for function
+6. Open new .blcks files and create new .blcks files
+7. Super cool transparent top bar

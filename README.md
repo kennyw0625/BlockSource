@@ -13,3 +13,6 @@ We were able to pull through all of the problems that we've encountered, by eith
 We learned that coding can be a difficult thing to work with when building projects and that patience is required.
 ## What's next for Blocksource
 A better more optimized and more friendly design, maybe even being the next well-known IDE (you never know).
+##Presentation and Demonstration
+Both videos are on the channel below.
+https://www.youtube.com/channel/UC9-DJcETNBO6gVyZxA3_z9w/videos

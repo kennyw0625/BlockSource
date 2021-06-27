@@ -17,6 +17,8 @@ A better more optimized and more friendly design, maybe even being the next well
 Both videos are on the channel below.
 
 https://www.youtube.com/channel/UC9-DJcETNBO6gVyZxA3_z9w/videos
+(Presentation: https://www.youtube.com/watch?v=6-sIBmTZkJw&t=5s)
+(Demo: https://www.youtube.com/watch?v=y-To5X-blOo)
 ## Feaures
 1. Coding Area
 2. Computer generated blocks represented by the code written (color coded)
@@ -24,4 +26,6 @@ https://www.youtube.com/channel/UC9-DJcETNBO6gVyZxA3_z9w/videos
 4. Light and Dark theme
 5. Toolbox for function
 6. Open new .blcks files and create new .blcks files
-7. Super cool transparent top bar
+7. Edit menu
+8. Tool bar that can go anywhere
+9. Super cool transparent top bar
